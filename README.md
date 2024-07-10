@@ -32,5 +32,28 @@ In each .txt file in train_dark/labels/
 "japonicus/koreicus": 5
 }
 
-#### Original dataset, enhanced images & best model weights: 
+### Original dataset, enhanced images & best model weights: 
 https://drive.google.com/drive/folders/1MMtTtBGh-kx5u5tJXM0JZLTy0iTUPEmk?usp=drive_link
+
+## ZeroDCE Results:
+<div>
+  <kbd><img src="./readme_imgs/Picture1.jpg" alt="low-light-image"/></kbd>
+  <kbd><img src="./readme_imgs/Picture2.jpg" alt="enhanced-image"/></kbd>
+</div>
+<hr/>
+<div>
+  <kbd><img src="./readme_imgs/Picture3.jpg" alt="low-light-image"/></kbd>
+  <kbd><img src="./readme_imgs/Picture4.jpg" alt="enhanced-image"/></kbd>
+</div>
+
+## YOLOv9e Results:
+<div>
+  <kbd><img src="./readme_imgs/Picture5.jpg" alt="low-light-image"/></kbd>
+  <kbd><img src="./readme_imgs/Picture6.jpg" alt="enhanced-image"/></kbd>
+</div>
+<hr/>
+<div>
+  <kbd><img src="./readme_imgs/Picture7.jpg" alt="low-light-image"/></kbd>
+  <kbd><img src="./readme_imgs/Picture8.jpg" alt="enhanced-image"/></kbd>
+</div>
+
