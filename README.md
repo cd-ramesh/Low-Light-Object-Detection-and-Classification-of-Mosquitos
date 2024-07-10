@@ -32,4 +32,5 @@ In each .txt file in train_dark/labels/
 "japonicus/koreicus": 5
 }
 
-Dataset: https://drive.google.com/file/d/1LS59sMGIOc2mAFqI8sEej-Bavs9LnyNB/view?usp=sharing
+#### Original dataset, enhanced images & best model weights: 
+https://drive.google.com/drive/folders/1MMtTtBGh-kx5u5tJXM0JZLTy0iTUPEmk?usp=drive_link
