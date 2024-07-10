@@ -31,3 +31,5 @@ In each .txt file in train_dark/labels/
 "culiseta": 4,
 "japonicus/koreicus": 5
 }
+
+https://drive.google.com/file/d/1LS59sMGIOc2mAFqI8sEej-Bavs9LnyNB/view?usp=sharing
