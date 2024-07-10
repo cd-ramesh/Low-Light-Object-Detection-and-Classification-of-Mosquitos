@@ -1,2 +1,4 @@
 # Low-Light-Object-Detection-and-Classification-of-Mosquitos
-EE5178 Modern Computer Vision Course Project
+Mosquitoes, small yet perilous insects, are responsible for transmitting diseases that pose a serious threat to humans and the environment. With over 3600 known species, a few of them have the ability to transmit various pathogens, leading to widespread illnesses such as Zika, Dengue, and Chikungunya. Controlling mosquito populations is vital to prevent disease outbreaks and protect communities worldwide.
+
+Traditional mosquito surveillance methods are expensive and time-consuming, but community-based approaches empower citizens to report and collect mosquito specimens. By leveraging machine learning and deep learning techniques, we aim to automate the labor-intensive image validation process, making mosquito identification more efficient and accurate.
