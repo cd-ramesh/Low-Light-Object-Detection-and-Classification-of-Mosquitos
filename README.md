@@ -32,4 +32,4 @@ In each .txt file in train_dark/labels/
 "japonicus/koreicus": 5
 }
 
-https://drive.google.com/file/d/1LS59sMGIOc2mAFqI8sEej-Bavs9LnyNB/view?usp=sharing
+Dataset: https://drive.google.com/file/d/1LS59sMGIOc2mAFqI8sEej-Bavs9LnyNB/view?usp=sharing
